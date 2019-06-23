@@ -23,7 +23,7 @@ This is an app writen in Node.js.
 
 * Date of the Event (use moment to format this as "MM/DD/YYYY")
 ```
-![Image description](link-to-image)
+![Image description](https://wangx733.github.io/liri-node-app/images/1.png)
 
 ## 2. node liri.js spotify-this-song '<song name here>'`
 
@@ -37,7 +37,7 @@ This is an app writen in Node.js.
 
 * The album that the song is from
 ```
-![Image description](link-to-image)
+![Image description](https://wangx733.github.io/liri-node-app/images/2.png)
 * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 ## 3. node liri.js movie-this '<movie name here>'`
@@ -54,7 +54,7 @@ This is an app writen in Node.js.
 * Plot of the movie.
 * Actors in the movie.
 ```
-![Image description](link-to-image)
+![Image description](https://wangx733.github.io/liri-node-app/images/3.png)
 
 * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
