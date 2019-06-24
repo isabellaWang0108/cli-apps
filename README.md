@@ -58,16 +58,10 @@ This is an app writen in Node.js.
 
 * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-* If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
-
-* It's on Netflix!
-
-* You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
-
 ## 4. node liri.js do-what-it-says`
 
 * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
 * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 
-
+![Image description](https://wangx733.github.io/liri-node-app/images/4.png)
