@@ -39,6 +39,7 @@ This is an app writen in Node.js.
 ```
 ![Image description](https://wangx733.github.io/liri-node-app/images/2.png)
 * If no song is provided then your program will default to "The Sign" by Ace of Base.
+![Image description](https://wangx733.github.io/liri-node-app/images/5.png)
 
 ## 3. node liri.js movie-this '<movie name here>'`
 
@@ -57,6 +58,7 @@ This is an app writen in Node.js.
 ![Image description](https://wangx733.github.io/liri-node-app/images/3.png)
 
 * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+![Image description](https://wangx733.github.io/liri-node-app/images/6.png)
 
 ## 4. node liri.js do-what-it-says`
 
